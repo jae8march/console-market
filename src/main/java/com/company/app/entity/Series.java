@@ -5,8 +5,6 @@ import java.util.Objects;
 
 /**
  * Class series with seasons and episodes properties.
- * @author Mariia_Kirina
- * @version 1.1
  */
 public class Series extends Film implements Serializable {
     private static final long serialVersionUID = 1L;

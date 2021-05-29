@@ -12,7 +12,7 @@ import java.util.TreeMap;
  * Service to work with Repository, order.
  */
 public class OrderService {
-    private OrderRepository orderRepository;
+    private final OrderRepository orderRepository;
 
     public OrderService() {
         this.orderRepository = new OrderRepository();

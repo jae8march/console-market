@@ -2,8 +2,6 @@ Console market with the following products: Film, Frame, Series, Photo
 
 The console interface for market has the following commands:
 
-Консольный интерфейс для интернет-магазина имеет следующие комманды:
-
 - display a list of goods;;
 
 - add a product to the cart;

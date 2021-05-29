@@ -10,7 +10,7 @@ import java.util.Map;
  * Service to work with Repository, basket.
  */
 public class BasketService {
-    private BasketRepository basketRepository;
+    private final BasketRepository basketRepository;
 
     public BasketService() {
         basketRepository = new BasketRepository();

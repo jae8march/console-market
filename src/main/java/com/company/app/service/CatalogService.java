@@ -9,7 +9,7 @@ import java.util.Map;
  * Service to work with Repository, catalog.
  */
 public class CatalogService {
-    private CatalogRepository catalogRepository;
+    private final CatalogRepository catalogRepository;
 
     public CatalogService() {
         this.catalogRepository = new CatalogRepository();

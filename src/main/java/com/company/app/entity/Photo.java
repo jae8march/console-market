@@ -5,8 +5,6 @@ import java.util.Objects;
 
 /**
  * Class photo with height and width properties.
- * @author Mariia_Kirina
- * @version 1.1
  */
 public class Photo extends Frame implements Serializable {
     private static final long serialVersionUID = 1L;

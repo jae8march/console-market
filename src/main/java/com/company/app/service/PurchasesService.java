@@ -9,7 +9,7 @@ import java.util.Map;
  * Service to work with Repository, purchases.
  */
 public class PurchasesService {
-    private PurchasesRepository purchasesRepository;
+    private final PurchasesRepository purchasesRepository;
 
     public PurchasesService() {
         this.purchasesRepository = new PurchasesRepository();
