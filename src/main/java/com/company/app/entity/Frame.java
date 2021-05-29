@@ -5,8 +5,6 @@ import java.util.Objects;
 
 /**
  * Class frame with author properties.
- * @author Mariia_Kirina
- * @version 1.1
  */
 public class Frame implements Serializable {
     private static final long serialVersionUID = 1L;
