@@ -5,8 +5,6 @@ import java.util.Objects;
 
 /**
  * Class film with genre and country properties.
- * @author Mariia_Kirina
- * @version 1.1
  */
 public class Film extends Frame implements Serializable {
     private static final long serialVersionUID = 1L;
